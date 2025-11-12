@@ -1,0 +1,1 @@
+Je vais utiliser les commandes git clone add commit et push avec un ignore
